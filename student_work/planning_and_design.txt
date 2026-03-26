@@ -4,32 +4,32 @@ APP PLANNING & DESIGN
 
 1. PROJECT NAME & THEME
 -------------------------
-- What is your app called, and what type of app is it?  
-- What style or vibe do you want users to experience?
-- What about your app will require a log-in structure?
+- What is your app called, and what type of app is it?  RECfood, an app in which users get recommended different foods
+- What style or vibe do you want users to experience? Organized, personalized, easy to work with 
+- What about your app will require a log-in structure? Being directed to your own food recommendation
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
-- What optional features could make your app more interactive or personalized?
+- What are the essential features your app must have? Log in/ register screens, random recommendation 
+- What optional features could make your app more interactive or personalized? Specification of the country in which the food is from
 
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  
-- Will this content change depending on who is using the app (admin, user, special user?)
+- What content will users see after logging in?  Random food reco
+- Will this content change depending on who is using the app (admin, user, special user?) If the user clicks the recommend more button they are taken to a screen with an insult on it 
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?
-- How will users navigate between pages?
+- How should your app look and feel? Simple, sleek, professional
+- How will users navigate between pages? Buttons that either say log in, create an account, log out, recommend more
 
 5. SECURITY FEATURES
 -------------------------
-- What password and authentication rules will you enforce?  
-- How will you protect secret pages from unauthorized access?
+- What password and authentication rules will you enforce?  Username has to include a period at the end 
+- How will you protect secret pages from unauthorized access? If the user doesn't click the recommend more button 
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?
-- Are there interactive elements, like games, quizzes, or badges, you could include?
+- What customization or fun features could users enjoy? Food.
+- Are there interactive elements, like games, quizzes, or badges, you could include? Fatty badge! :)
