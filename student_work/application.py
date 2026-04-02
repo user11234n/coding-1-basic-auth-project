@@ -27,8 +27,8 @@ init_db()
 base_style = """
 <style>
 body {
-    font-family: Arial, sans-serif;
-    background: #f4f6f8;
+    font-family: "Times New Roman",Times, serif;
+    background:  #7A5299;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ input {
 button {
     padding: 10px;
     width: 60%;
-    background: #4CAF50;
+    background: #7D698D;
     color: white;
     border: none;
 }
@@ -112,7 +112,7 @@ def login():
 
         if user and bcrypt.checkpw(password.encode("utf-8"), user["password"]):
             session["user"] = username
-            return redirect(url_for("secret"))
+            
         else:
             error = "Incorrect username or password"
 
