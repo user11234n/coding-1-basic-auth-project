@@ -33,3 +33,9 @@ APP PLANNING & DESIGN
 -------------------------
 - What customization or fun features could users enjoy? Food.
 - Are there interactive elements, like games, quizzes, or badges, you could include? Fatty badge! :)
+
+Foods: 
+ginger pork
+poke
+salbutes
+japchae 
